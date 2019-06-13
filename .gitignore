@@ -1,5 +1,7 @@
 # Undo tree
 *.~undo*
+*.~undo-tree~
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
